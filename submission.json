@@ -1,0 +1,14 @@
+{
+  "milestone": "day-01",
+  "team": "团队名称",
+  "members": [
+    "朱玉珂，刘语桐"
+  ],
+  "repository_url": "ai-camp-2026-d1--U202412502",
+  "run_command": "py train.py",
+  "test_command": "py -m unittest discover -s tests -v",
+  "report": "report.md",
+  "presentation": "presentation-5q.pptx",
+  "presentation_minutes": 3,
+  "student_confirmed_no_secrets": false
+}
